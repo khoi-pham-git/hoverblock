@@ -3,7 +3,7 @@
 ### You will find in this repo the following stuff: 
 * This repo using Flexbox, Transition and Hover basic.
 * Techs: HTML, CSS
-* ![GitHub followers](https://img.shields.io/github/followers/khoi-pham-git?style=social) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/khoi-pham-git/ProjectCSharp?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/khoi-pham-git/ProjectCSharp?color=%23239120&logo=C%20Sharp&style=plastic)
+* ![GitHub followers](https://img.shields.io/github/followers/khoi-pham-git?style=social) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/khoi-pham-git/ProjectCSharp?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/khoi-pham-git/hoverblock?color=%23239120&logo=C%20Sharp&style=plastic)
 
 
 ## Have fun with my code and feel free to give me any comments
